@@ -17,5 +17,3 @@ chsm0338@kaist.ac.kr or chsm0338@gmail.com /
   The number of the figures will be set automatically with you row & col bin sizes. or you can modify the way of display!
   
 To use this script, you will need the code "Find_Divisors.m" which generates a list of divisors of some given number. ex) input: 8 -> Output: 1, 2, 4, 8
-
-From the divisor list, you will set Row and Col size in a figure
