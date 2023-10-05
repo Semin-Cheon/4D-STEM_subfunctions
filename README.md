@@ -27,10 +27,11 @@ chsm0338@kaist.ac.kr or chsm0338@gmail.com /
 
 - Description:
   - Generates 4D-STEM tilt dataset from a 3D volume.
-
+  - I made this code by Modifying and fusing MSET-subfunctions<https://github.com/jhlee0667/MSET>
+  - 
 - Input:
           - 3D volume and the directory of the volume
           - 
 - Output: 4D-STEM tilt dataset
   
-To use this code properly, you must need MSET subfunctions developed by Juhyeok Lee 
+To use this code properly, you must need MSET subfunctions developed by Juhyeok Lee(Github ID: jhlee0667)
