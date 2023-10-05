@@ -1,20 +1,17 @@
 # 4D-STEM data viewer
 
-Semin.Ch
-
+Semin.Ch /
+MDAIL,Physics department, KAIST /
+chsm0338@kaist.ac.kr or chsm0338@gmail.com /
 2023.09.16
 
-MDAIL,Physics department, KAIST
-
-chsm0338@kaist.ac.kr or chsm0338@gmail.com
-
-# Description:  
+- Description:  
           - Whole 4D-STEM images in a tilt angle can be shown with several figures
-# Input:  
+- Input:  
           - Full_4D-images: 4D-STEM data at a tilt angle
           - Row bin sizes: row size in a figure
           - Col bin sizes: col size in a figure
-# Output:
+- Output:
           - 4D-STEM windows
           
   The number of the figures will be set automatically with you row & col bin sizes. or you can modify the way of display!
